@@ -14,7 +14,7 @@ Para poder usar este proyecto lo que debes de hacer es siguiente:
 4-	Desde tu navegador pon la ruta del proyecto para empezar a usarlop p.e localhost/Demo_Gallery
 
 5-	Para poder ingresar al sistema podremos usar un nombre de usuario o un email.
-	los valores por defecto del sistema son: 
+	Los valores por defecto del sistema son: 
 	*user: admin
 	*email:email@email.com
 	*pass admin
