@@ -18,3 +18,12 @@ Para poder usar este proyecto lo que debes de hacer es siguiente:
 	*pass admin
 	
 Nota: Las imagenes que vayamos a subir se guardaran en el directorio Demo_Gallery/images/gallery/
+
+Ojo el tamaño de las imagenes que subira dependera de la configuracion de tu php.ini para cambiar eso tiene que editar el php.ini y buscar las siguientes lineas, el tamaño nuevo dependera de tus necesidades
+
+upload_max_filesize=2M
+max_file_uploads=20
+post_max_size = 8M 
+
+max_execution_time = 30
+memory_limit = 64M 
