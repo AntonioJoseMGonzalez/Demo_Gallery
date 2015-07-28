@@ -37,7 +37,7 @@
         ?>
         <div class="row">
             <!-- login form box -->
-            <form method="post" action="/index.php" name="loginform" class="form-horizontal">
+            <form method="post" action="/Demo_Gallery/index.php" name="loginform" class="form-horizontal">
               <fieldset>
                 <!-- Form Name -->
                 <center><legend>Sign In</legend></center>
