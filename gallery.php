@@ -3,9 +3,9 @@
 <head>
 
     <?php include_once("/includes/header.php"); ?>
-    <link rel="stylesheet" href="css/bootstrap-lightbox.min.css">
+    <link rel="stylesheet" href="/Demo_Gallery/css/bootstrap-lightbox.min.css">
 
-    <link rel="stylesheet" href="/css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
+    <link rel="stylesheet" href="/Demo_Gallery/css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
 
 </head>
 
@@ -35,7 +35,7 @@
         <div class="row">
             <img src="">
             <div class="col-lg-12">
-                <h1 class="page-header" id="encab-up">Gallery</h1>
+                <h1 class="page-header foo-head" id="encab-up">Gallery</h1>
             </div>
             <?php 
             foreach ($responce as $data){
@@ -56,10 +56,10 @@
         </div>
 
     <?php include_once("/includes/footer.php"); ?>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="/Demo_Gallery/js/bootstrap.min.js"></script>
 
-    <script src="/js/jquery.1.9.0.min.js" type="text/javascript"></script>
-    <script src="/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/Demo_Gallery/js/jquery.1.9.0.min.js" type="text/javascript"></script>
+    <script src="/Demo_Gallery/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
 
     <script type="text/javascript" charset="utf-8">
       $(document).ready(function(){

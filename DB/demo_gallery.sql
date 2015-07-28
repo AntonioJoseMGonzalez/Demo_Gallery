@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS `image` (
 
 CREATE TABLE IF NOT EXISTS `image_path` (
 `image_path_id` int(11) NOT NULL,
-  `url_path` varchar(100) NOT NULL,
+  `url_path` varchar(110) NOT NULL,
   `created_by` int(11) NOT NULL DEFAULT '1',
   `created_at` datetime NOT NULL,
   `updated_by` int(11) NOT NULL DEFAULT '1',

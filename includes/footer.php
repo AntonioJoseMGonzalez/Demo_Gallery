@@ -2,7 +2,7 @@
 <footer>
 	<div class="row">
 	    <div class="col-lg-12 footer">
-			<center><p>Copyright &copy; Demo Gallery 2015</p></center>
+			<center><p class="foo-head">Copyright &copy; Demo Gallery 2015</p></center>
 		</div>
 	</div>
 </footer>

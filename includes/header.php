@@ -5,8 +5,6 @@
     <meta name="author" content="">
 
     <title>Demo Gallery</title>
-    <!-- MainSS -->
-    <link href="css/main.css" rel="stylesheet">
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap-theme.css" rel="stylesheet">
@@ -22,6 +20,8 @@
 
     <!-- Custom CSS -->
     <link href="css/thumbnail-gallery.css" rel="stylesheet">
+    <!-- MainSS -->
+    <link href="css/main.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

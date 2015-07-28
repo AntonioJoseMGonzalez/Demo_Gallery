@@ -9,7 +9,7 @@ Released under the MIT License <http://www.opensource.org/licenses/mit-license.p
 
 // Define a destination
 $query_obj = new Querys;
-$targetFolder = '/images/gallery/'; // Relative to the root
+$targetFolder = '/Demo_Gallery/images/gallery/'; // Relative to the root
 $dateTime = date('Y/m/d h:i:s');
 
 $verifyToken = md5('unique_salt' . $_POST['timestamp']);
